@@ -1,0 +1,218 @@
+[
+  {
+    "id": "tile_001",
+    "title": "Ceramic Blue Tile",
+    "description": "Premium ceramic tile with a deep blue glaze finish.",
+    "image": "/images/tiles/tile_001.svg",
+    "category": "ceramic",
+    "price": 45.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true,
+    "creator": "Marta Silva",
+    "tags": [
+      "Blue",
+      "Glossy",
+      "Minimalist"
+    ]
+  },
+  {
+    "id": "tile_002",
+    "title": "Terracotta Sun",
+    "description": "Hand-pressed terracotta with a warm, sun-baked tone.",
+    "image": "/images/tiles/tile_002.svg",
+    "category": "terracotta",
+    "price": 38.5,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Terracotta",
+    "inStock": true,
+    "creator": "Joaquin Reyes",
+    "tags": [
+      "Warm",
+      "Rustic",
+      "Mediterranean"
+    ]
+  },
+  {
+    "id": "tile_003",
+    "title": "Modern Geometric",
+    "description": "Bold interlocking triangles for feature walls.",
+    "image": "/images/tiles/tile_003.svg",
+    "category": "porcelain",
+    "price": 62,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Porcelain",
+    "inStock": true,
+    "creator": "Ines Larsen",
+    "tags": [
+      "Geometric",
+      "Modern",
+      "Monochrome"
+    ]
+  },
+  {
+    "id": "tile_004",
+    "title": "Emerald Hex",
+    "description": "Hexagonal glazed tile in deep emerald green.",
+    "image": "/images/tiles/tile_004.svg",
+    "category": "ceramic",
+    "price": 54.25,
+    "currency": "USD",
+    "dimensions": "20x23 cm",
+    "material": "Ceramic",
+    "inStock": true,
+    "creator": "Aiko Tanaka",
+    "tags": [
+      "Green",
+      "Hexagon",
+      "Glossy"
+    ]
+  },
+  {
+    "id": "tile_005",
+    "title": "Carrara Marble Veil",
+    "description": "Polished marble-look tile with soft grey veining.",
+    "image": "/images/tiles/tile_005.svg",
+    "category": "marble",
+    "price": 89,
+    "currency": "USD",
+    "dimensions": "60x120 cm",
+    "material": "Marble",
+    "inStock": true,
+    "creator": "Luca Ferrari",
+    "tags": [
+      "Marble",
+      "Luxury",
+      "White"
+    ]
+  },
+  {
+    "id": "tile_006",
+    "title": "Moroccan Star",
+    "description": "Eight-point star pattern inspired by zellige craft.",
+    "image": "/images/tiles/tile_006.svg",
+    "category": "mosaic",
+    "price": 71.4,
+    "currency": "USD",
+    "dimensions": "25x25 cm",
+    "material": "Glazed Stone",
+    "inStock": true,
+    "creator": "Yasmin Idrissi",
+    "tags": [
+      "Moroccan",
+      "Pattern",
+      "Blue"
+    ]
+  },
+  {
+    "id": "tile_007",
+    "title": "Slate Concrete",
+    "description": "Matte concrete-effect tile for industrial spaces.",
+    "image": "/images/tiles/tile_007.svg",
+    "category": "concrete",
+    "price": 33,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Porcelain",
+    "inStock": false,
+    "creator": "Noah Becker",
+    "tags": [
+      "Industrial",
+      "Grey",
+      "Matte"
+    ]
+  },
+  {
+    "id": "tile_008",
+    "title": "Blush Scallop",
+    "description": "Soft pink scalloped tile with a satin finish.",
+    "image": "/images/tiles/tile_008.svg",
+    "category": "ceramic",
+    "price": 48.9,
+    "currency": "USD",
+    "dimensions": "20x20 cm",
+    "material": "Ceramic",
+    "inStock": true,
+    "creator": "Chloe Martin",
+    "tags": [
+      "Pink",
+      "Scallop",
+      "Playful"
+    ]
+  },
+  {
+    "id": "tile_009",
+    "title": "Oak Plank Porcelain",
+    "description": "Wood-look porcelain with natural grain.",
+    "image": "/images/tiles/tile_009.svg",
+    "category": "wood-look",
+    "price": 52,
+    "currency": "USD",
+    "dimensions": "20x120 cm",
+    "material": "Porcelain",
+    "inStock": true,
+    "creator": "Henrik Berg",
+    "tags": [
+      "Wood",
+      "Natural",
+      "Warm"
+    ]
+  },
+  {
+    "id": "tile_010",
+    "title": "Midnight Terrazzo",
+    "description": "Dark terrazzo chips on a charcoal base.",
+    "image": "/images/tiles/tile_010.svg",
+    "category": "terrazzo",
+    "price": 67.75,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Terrazzo",
+    "inStock": false,
+    "creator": "Sofia Rossi",
+    "tags": [
+      "Terrazzo",
+      "Dark",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": "tile_011",
+    "title": "Sage Subway",
+    "description": "Classic subway tile in a calming sage glaze.",
+    "image": "/images/tiles/tile_011.svg",
+    "category": "ceramic",
+    "price": 29.99,
+    "currency": "USD",
+    "dimensions": "7.5x15 cm",
+    "material": "Ceramic",
+    "inStock": true,
+    "creator": "Emma Walsh",
+    "tags": [
+      "Green",
+      "Classic",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "tile_012",
+    "title": "Saffron Wave",
+    "description": "Flowing wave relief in a vibrant saffron yellow.",
+    "image": "/images/tiles/tile_012.svg",
+    "category": "mosaic",
+    "price": 58.6,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Glazed Ceramic",
+    "inStock": true,
+    "creator": "Ravi Patel",
+    "tags": [
+      "Yellow",
+      "Wave",
+      "Bold"
+    ]
+  }
+]
